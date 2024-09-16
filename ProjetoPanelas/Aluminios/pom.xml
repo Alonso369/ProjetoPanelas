@@ -8,7 +8,7 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.sistran.aluminios</groupId>
+	<groupId>br.com.utfpr.aluminios</groupId>
 	<artifactId>Aluminios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Aluminios</name>

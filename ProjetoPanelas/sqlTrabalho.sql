@@ -1,3 +1,4 @@
+CREATE DATABASE BancoAluminios
 USE BancoAluminios
 
 create table disco(
@@ -33,4 +34,8 @@ create table panela(
 	idTampa bigint references tampa not null,
 	preco float not null
 )
+
+select * from disco
+
+
 
